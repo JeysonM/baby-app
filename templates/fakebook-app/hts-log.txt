@@ -1,0 +1,28 @@
+HTTrack3.49-2 launched on Fri, 04 Jan 2019 21:02:40 at https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110 return return
+(winhttrack https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110 -O "return/fakebook-app" -P return:return -%v return return )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:02:58	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link return/robots.txt (from primary/primary)
+21:02:58	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link return/ (from primary/primary)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/lCz8 (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/qnZW (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/PmN3 (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/sZx1 (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/IToy (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/S+p0 (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/km2J (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/OIWf (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/emU3 (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/36Dd (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/dH2O (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/qZW+ (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Error: 	"Not Found" (404) at link https://www.facebook.com/login/device-based/regular/login/gvCs (from https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=110)
+21:02:58	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link return/ (from primary/primary)
+21:02:58	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link return/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 20 links scanned, 2 files written (1127961 bytes overall) [1907553 bytes received at 105975 bytes/sec], 8387634 bytes transferred using HTTP compression in 16 files, ratio 22%, 8.0 requests per connection
+(15 errors, 2 warnings, 0 messages)
