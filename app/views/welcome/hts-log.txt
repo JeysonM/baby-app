@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Fri, 04 Jan 2019 20:49:20 at https://www.bidiboo.mx/bebe/5466327756538661-Jonathan-Gerard/?fbclid=IwAR27IiejgNHt5eVCgpv-Xqdm2V_j4DHAHcl0MLQgZ2cHH8EzPEt2uC9dA7U return return
+(winhttrack https://www.bidiboo.mx/bebe/5466327756538661-Jonathan-Gerard/?fbclid=IwAR27IiejgNHt5eVCgpv-Xqdm2V_j4DHAHcl0MLQgZ2cHH8EzPEt2uC9dA7U -O "/Users/jeysonmirabal/Documents/Trabajo/DCDev /baby-app" -P return:return -%v return return )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:49:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link return/robots.txt (from primary/primary)
+20:49:28	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link return/ (from primary/primary)
+20:49:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link return/ (from primary/primary)
+20:49:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link return/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 6 links scanned, 1 files written (23405 bytes overall) [10950 bytes received at 1368 bytes/sec], 23405 bytes transferred using HTTP compression in 1 files, ratio 41%
+(2 errors, 2 warnings, 0 messages)

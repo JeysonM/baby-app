@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:49:28	24/24	---M--	200	added ('OK')	text/plain	etag:%22ea6b94db76687d4538d1341c4f2120dd%22	https://www.bidiboo.mx/robots.txt		(from )
+20:49:28	23405/23405	---MCZ	200	added ('OK')	text/html	date:Sat,%2005%20Jan%202019%2000:49:27%20GMT	https://www.bidiboo.mx/bebe/5466327756538661-Jonathan-Gerard/?fbclid=IwAR27IiejgNHt5eVCgpv-Xqdm2V_j4DHAHcl0MLQgZ2cHH8EzPEt2uC9dA7U	/Users/jeysonmirabal/Documents/Trabajo/DCDev%20/baby-app/www.bidiboo.mx/bebe/5466327756538661-Jonathan-Gerard/indexafb9.html	(from )
